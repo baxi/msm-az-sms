@@ -20,5 +20,4 @@ $sms->setMessage("Message to send");
 $sms->addTo("0501112233");
 
 $sms->sendSms();
-</code>
 ```
